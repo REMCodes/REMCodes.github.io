@@ -1,0 +1,14 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #141414;
+    color: #c7c7c7;
+}
+
+.header-highlight {
+    background-color: #716d6a;
+    color: #1b130d;
+}
+
+.header {
+    background-color: #1b130d;
+}
