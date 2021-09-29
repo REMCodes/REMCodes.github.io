@@ -1,0 +1,38 @@
+.header {
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    /* border: 2px solid; */
+    overflow: hidden;
+}
+
+#banner {
+    object-fit: cover;
+    width: 100%;
+}
+
+.links li {
+    display: inline;
+    margin-right: 10px;
+}
+
+.links {
+    min-height: 40px;
+}
+
+.page {
+    /* height: 200px; */
+    /* overflow-y: scroll; */
+    /* border: 1px solid; */
+    padding: 15px;
+    column-count: 3;
+    column-gap: 20px;
+    column-rule-style: none;
+}
+
+.card {
+    column-span: 1;
+    border: 1px solid;
+    padding: 5px;
+    text-align: center;
+}

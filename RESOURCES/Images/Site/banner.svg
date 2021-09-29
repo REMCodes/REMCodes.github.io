@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created using Krita: http://krita.org -->
+<svg xmlns="http://www.w3.org/2000/svg" 
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:krita="http://krita.org/namespaces/svg/krita"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    width="245.76pt"
+    height="60pt"
+    viewBox="0 0 245.76 60">
+<defs/>
+<path id="shape0" transform="translate(5.87999999999999, 30)" fill="none" stroke="#141414" stroke-width="240" stroke-linecap="square" stroke-linejoin="bevel" d="M0 0L234 0"/><text id="shape01" krita:useRichText="true" transform="translate(5.13625567121702, 40.7999998783322)" fill="#c7c7c7" font-family="Tlwg Mono" font-size="28" font-size-adjust="0.333594" font-stretch="normal" kerning="0" letter-spacing="0" word-spacing="0"><tspan x="0">REMCodes</tspan></text><path id="shape1" transform="matrix(-1 0 0 1 207.032716972518 15.2396079770318)" fill="none" stroke="#c7c7c7" stroke-width="2.16" stroke-linecap="square" stroke-linejoin="bevel" d="M21.2811 0L0 16.5022L21.3 31.8472"/><path id="shape2" transform="translate(211.648887800338, 47.9503689932627)" fill="none" stroke="#c7c7c7" stroke-width="2.16" stroke-linecap="square" stroke-linejoin="bevel" d="M0 8.25448e-07L22.6133 0"/><text id="shape01" krita:useRichText="true" transform="translate(210.516255850449, 40.7999998783322)" fill="#c7c7c7" font-family="Tlwg Mono" font-size="28" font-size-adjust="0.333594" font-stretch="normal" kerning="0" letter-spacing="0" word-spacing="0"><tspan x="0">R</tspan></text>
+</svg>

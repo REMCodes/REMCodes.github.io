@@ -1,0 +1,17 @@
+body {
+    background-color: #121212;
+    color: #a5a5a5;
+    font-family: Arial, Verdana, Helvetica, sans-serif;
+}
+h1, h2, h3 {
+    color: #ddd;
+}
+
+.links {
+    background-color: #3b3b3b;
+    color: #a5a5a5;
+}
+
+.card {
+    background-color: #3b3b3b;
+}
