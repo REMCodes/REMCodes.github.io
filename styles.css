@@ -37,6 +37,10 @@
     float: left;
   }
 
+  .right {
+    float: right !important;
+  }
+
   #navbar ul li a {
     display: block;
     color: #a5a5a5;
