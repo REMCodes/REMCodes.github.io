@@ -21,8 +21,11 @@
       width: 100%;
   }
   a {
-    text-decoration: none;
+    text-decoration: underline;
     color: #a5a5a5;
+  }
+  .nounderline {
+    text-decoration: none !important;
   }
   /* Navigation */
   #navbar ul {
